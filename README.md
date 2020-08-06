@@ -36,7 +36,7 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 - JavaScript
 - Node.js 
 - Nunjucks 
-- <s>SQLite</s> (próximas aulas 🚧)
+- SQLite
 
 --- 
 
@@ -44,7 +44,7 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/guilhermecapitao/proffy-discovery
+git clone https://github.com/Wes1738/Proffy
 
 # Entrar no diretório
 cd proffy-discovery
@@ -62,4 +62,4 @@ Feito isso, abra o seu navegador e acesse `http://localhost:5500/`
 
 
 
-Desenvolvido com 💜 por Guilherme Capitão
+Desenvolvido com 💜 por Wesley Rodrigues
