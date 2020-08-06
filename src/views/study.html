@@ -11,8 +11,10 @@
   <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;700&amp;family=Poppins:wght@400;600&amp;display=swap" rel="stylesheet">
 </head>
 <body id="page-study">
+  
   <div id="container">
     <header class="page-header">
+      
       <div class="top-bar-container">
         <a href="/">
           <img src="./images/icons/back.svg" alt="Voltar">
@@ -51,7 +53,9 @@
           <button type="submit">Filtrar</button>
         </form>
       </div>
+
     </header>
+
     <main>
       {%for proffy in proffys %}
         <article class="teacher-item">
@@ -70,9 +74,10 @@
             </a>
           </footer>
         </article>
-      {%endfor%}
-      
+      {%endfor%}  
     </main>
+
   </div>
+
 </body>
 </html>
