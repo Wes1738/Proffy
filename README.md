@@ -1,5 +1,5 @@
 <h3 align="center">
-  *🚧 Em construção 🚧*
+  <img src="https://ik.imagekit.io/capitao/Proffy/nlw2_6d7PvlHZ5.svg" width="150" >
 </h3>
 
 ## 📋 Índice
@@ -14,7 +14,7 @@
 ## 🖥 Preview 
 
 <p align="center">
-  <img src="https://ik.imagekit.io/capitao/Proffy/preview_9WT1Wt2Jz.png" width="700" >
+  <img src="https://ik.imagekit.io/capitao/Proffy/final_1596781937_urgAUoPC-.jpg" width="700" >
 </p>
 
 ---
